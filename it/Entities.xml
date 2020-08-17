@@ -11,7 +11,7 @@
         </Chef>
         <AirlineRep>
             <name>Responsabile commerciale</name>
-            <description>Assegna dei respondansabili commerciali per migliorare la comunicazione e la fiducia verso le compagnie aeree!Nel corso di una giornata, la valutazione della comunicazione con la compagnia aerea assegnata viene migliorata. Tuttavia, per ottenere il massimo miglioramento è necessario costruire sale riunioni in cui è possibile organizzare automaticamente le riunioni.</description>
+            <description>Assegna dei responsabili commerciali per migliorare la comunicazione e la fiducia verso le compagnie aeree!Nel corso di una giornata, la valutazione della comunicazione con la compagnia aerea assegnata viene migliorata. Tuttavia, per ottenere il massimo miglioramento è necessario costruire sale riunioni in cui è possibile organizzare automaticamente le riunioni.</description>
         </AirlineRep>
         <CFO>
             <name>CFO</name>
@@ -50,15 +50,15 @@
             <description />
         </Laborer>
         <Passenger>
-            <name>Passenger</name>
+            <name>Passegero</name>
             <description />
         </Passenger>
         <Pilot>
-            <name>Pilot</name>
+            <name>Pilota</name>
             <description />
         </Pilot>
         <RampAgent>
-            <name>RampAgent</name>
+            <name>Agente di Rampa</name>
             <description>Aircraft STUCK?  Ramp agent to the rescue!  They help "un-stick" all the aircraft on the ground for a small one-time fee.  When their work is done, they'll leave.   Also known as the "Golden Towbar Award".</description>
         </RampAgent>
         <Security>
@@ -153,8 +153,8 @@
             <description>Instrument Landing System allows larger airliners to conduct a precision instrument approach.  Maximum crosswind tolerance is increased from 12 to 20 Kt. This means fewer weather delays &amp; a lower risk of weather-related incidents.  It'll also help you attract the 'Big Boy' airlines.</description>
         </RunwayILS>
         <RunwayLights>
-            <name>Runway Lights</name>
-            <description>Runway lights allow for night operations at your airport.</description>
+            <name>Luci Pista</name>
+            <description>Le luci della pista consentono operazioni notturne nel tuo aeroporto.</description>
         </RunwayLights>
         <RunwayPAPI>
             <name>Runway PAPI</name>
